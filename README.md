@@ -16,3 +16,7 @@ Run [`index.html`](https://chazomaticus.github.io/netttt/index.html) to see it i
 ##Credits
 
 Credits gor this code go to [chazomaticus](https://github.com/chazomaticus)
+
+##More
+
+Video by Siraj Raval - [How to Make a Tic Tac Toe Neural Network Easily (LIVE)](https://www.youtube.com/watch?v=0a-52ntK3T8)
